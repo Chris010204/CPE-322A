@@ -12,7 +12,7 @@
 2. Cooking
 3. Baking
 
-![Butter Cookies](image.jpg)
+![Butter Cookies](Cookies.JPG)
 
 ---
 
