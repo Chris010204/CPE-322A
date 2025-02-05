@@ -32,4 +32,4 @@ Assignment 1:
 
 Labs:
 
-Lab 1:
+Lab 1: [GHDL and GTKWave](Lab1)
