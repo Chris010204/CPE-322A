@@ -33,4 +33,5 @@ Assignment 1-2:
 Labs:
 
 Lab 1: [GHDL and GTKWave](Lab1)
-Lab 2: [Command Line](Lab2-CommandLine)
+
+Lab 2: [Command Line](Lab2-CommandLine.docx)
