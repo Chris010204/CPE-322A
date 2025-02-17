@@ -27,7 +27,7 @@
 
 Class Assignments: 
 
-Assignment 1: 
+Assignment 1-2: 
 [Group Website](https://sites.google.com/stevens.edu/cpe322-gsite)
 
 Labs:
