@@ -1,12 +1,13 @@
-### Lab 1 Results
-##Half-Adder
+# Lab 1 Results
+## Half-Adder
 
-#Half-Adder Command Prompt Process: 
+### Half-Adder Command Prompt Process: 
 ![HA-command](half-adder/commandpromt.png)
 
-#Half-Adder Results:
+### Half-Adder Results:
 ![HA-results](half-adder/ha_results.png)
 
-##D-Flip_Flop
+## D-Flip-Flop Results:
+![DFF-results](d-flip-flop/dff_results.png)
 
 
