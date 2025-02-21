@@ -1,3 +1,12 @@
-*Half-adder results: 
+### Lab 1 Results
+##Half-Adder
 
-![HA-results](Lab1/half-adder/Screenshot 2025-01-04 222823.png)
+#Half-Adder Command Prompt Process: 
+![HA-command](half-adder/commandpromt.png)
+
+#Half-Adder Results:
+![HA-results](half-adder/ha_results.png)
+
+##D-Flip_Flop
+
+
