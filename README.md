@@ -25,9 +25,7 @@
 
 [Lifting Webstite](https://stevensrec.com/sports/power-lifting)
 
-Class Assignments: 
-
-Assignment 1-2: 
+Class Assignments on Website: 
 [Group Website](https://sites.google.com/stevens.edu/cpe322-gsite)
 
 Labs:
