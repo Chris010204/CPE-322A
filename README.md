@@ -37,3 +37,5 @@ Lab 1: [GHDL and GTKWave](Lab1/Lab1.md)
 Lab 2: [Command Line](Lab2-CommandLine.pdf)
 
 Lab 3: [Python Libraries Testing](Lab3_PythonLibraries.pdf)
+
+Lab 4: [Lab 4 — Django and Flask](Lab4)
