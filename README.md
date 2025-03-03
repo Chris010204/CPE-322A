@@ -37,3 +37,5 @@ Lab 2: [Command Line](Lab2-CommandLine.pdf)
 Lab 3: [Python Libraries Testing](Lab3_PythonLibraries.pdf)
 
 Lab 4: [Django and Flask](Lab4)
+
+Lab 5: [Paho-MQTT](Lab5_Paho-MQTT.pdf)
