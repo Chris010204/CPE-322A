@@ -39,3 +39,5 @@ Lab 3: [Python Libraries Testing](Lab3_PythonLibraries.pdf)
 Lab 4: [Django and Flask](Lab4)
 
 Lab 5: [Paho-MQTT](Lab5_Paho-MQTT.pdf)
+
+Lab 6: [Node.js and Pystache](Lab6-Nodejs_Pystache)
