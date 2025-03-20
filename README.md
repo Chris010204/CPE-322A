@@ -34,14 +34,16 @@ Lab 1: [GHDL and GTKWave](Lab1/Lab1.md)
 
 Lab 2: [Command Line](Lab2-CommandLine.pdf)
 
-Lab 3: [Python Libraries Testing](Lab3_PythonLibraries.pdf)
+Lab 3: [Python Libraries Testing](Lab3-PythonLibraries.pdf)
 
 Lab 4: [Django and Flask](Lab4)
 
-Lab 5: [Paho-MQTT](Lab5_Paho-MQTT.pdf)
+Lab 5: [Paho-MQTT](Lab5-Paho-MQTT.pdf)
 
 Lab 6: [Node.js and Pystache](Lab6-Nodejs_Pystache.pdf)
 
 Lab 7: [ThingSpeak and Google Sheets](Lab7-ThingSpeakAndGoogleSheets.pdf)
 
 Lab 8: [Data Analysis](Lab8-DataAnalysis.pdf)
+
+Lab 9: [YANG](Lab9-YANG.png)
