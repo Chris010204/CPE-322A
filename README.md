@@ -47,3 +47,5 @@ Lab 7: [ThingSpeak and Google Sheets](Lab7-ThingSpeakAndGoogleSheets.pdf)
 Lab 8: [Data Analysis](Lab8-DataAnalysis.pdf)
 
 Lab 9: [YANG](Lab9-YANG.png)
+
+Lab 10: [Blockchain](Lab10-Blockchain.pdf)
